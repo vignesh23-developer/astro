@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220051715881",
+    "project_id": "education-c01af",
+    "storage_bucket": "education-c01af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220051715881:android:904377077d7fc24aac6938",
+        "android_client_info": {
+          "package_name": "com.example.asrology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBodEJNITO_-N5yPgfmAq3E2hcQ3yOIw-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
